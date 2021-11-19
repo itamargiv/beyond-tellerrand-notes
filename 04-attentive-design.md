@@ -1,7 +1,7 @@
 # Attentive Design
 Moving From Exhausting to Nourishing Digital Media Environment
 
-> By: [Julia Racsko](https://beyondtellerrand.com/events/dusseldorf-2021/speakers/julia-racsko)
+> By: [Júlia Racskó](https://beyondtellerrand.com/events/dusseldorf-2021/speakers/julia-racsko)
 >
 > **Video:** https://www.youtube.com/watch?v=QImwKyCXpN4
 
