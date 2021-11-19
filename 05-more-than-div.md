@@ -55,7 +55,7 @@ Semantics and how to get them right
   layouts.
 - There are a lot of instances where ARIA is redundant, since HTML is a living
   standard.
-- Thus ARIA is like a polyfill that adds semantics to hTML until HTML standards
+- Thus ARIA is like a polyfill that adds semantics to HTML until HTML standards
   catch up.
 - Since HTML provides a much more robust support than specifying everything by
   WAI-ARIA, always prefer the correct HTML element over a div with WAI-ARIA
