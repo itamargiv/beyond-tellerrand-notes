@@ -40,11 +40,12 @@
 
     #### Composition Process
     _**We are making a shitty first draft so we can draw over an through**_
-    0. Start with thinking of the different shapes an object is made of
-    0. Draw the shapes as you think of them
-    0. Examine the proportions and fix them in your next iterations
-    0. Refine the shapes a bit, in order to add additional clarity
-    0. Think of which and where additional details could go in terms of context.
+
+    1. Start with thinking of the different shapes an object is made of
+    1. Draw the shapes as you think of them
+    1. Examine the proportions and fix them in your next iterations
+    1. Refine the shapes a bit, in order to add additional clarity
+    1. Think of which and where additional details could go in terms of context.
 
 ### Conceptual Clarity
 - Not about where the shapes are, or how your hands move, but the thoughts
