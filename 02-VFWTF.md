@@ -68,7 +68,7 @@ Some cool axes to be inspired by:
 
 ## See Also
 
-www.variablefonts.com
+www.variablefonts.org
 
 ## Questions
 
