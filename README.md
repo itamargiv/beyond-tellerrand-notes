@@ -2,7 +2,7 @@
 
 > **Video Playlist:** https://www.youtube.com/watch?v=tGyQIKzQt8E&list=PL8ZzmQWppBBt0uCOScOY69kQEPH5WjaOw 
 
-This repository contains my personal notes from the 2021 Beyond Tellerrand
+This repository contains my personal notes from the 2021 [beyond tellerrand](https://beyondtellerrand.com/)
 conference in Düsseldorf.
 
 > beyond tellerrand is the affordable single-track event where creativity and
