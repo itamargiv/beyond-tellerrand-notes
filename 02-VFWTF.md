@@ -1,6 +1,8 @@
 # VFWTF? - Variable Fonts WTF?
 
-By: Bianca Berning []()
+By: [Bianca Berning](https://beyondtellerrand.com/events/dusseldorf-2021/speakers/bianca-berning)
+
+> **Video:** https://www.youtube.com/watch?v=yBSbHaOlYrk
 
 - Take a look at where we are in terms of Variable Fonts
 
@@ -9,7 +11,7 @@ By: Bianca Berning []()
 - When you design a website, you need mitigate the amount of time it takes to
   load fonts.
 
-![UX Hierarchy]()
+![UX Hierarchy](images/02-01-ux-hierarchy.png)
 
 - We normally serve fonts with one file per font weight / variant.
 - The biggest amount of data per fount is the information about the outline of
@@ -22,7 +24,7 @@ By: Bianca Berning []()
 
 ## Axes
 
-![Design Space]()
+![Design Space](images/02-02-design-space.png)
 
 - When choosing fonts, we can always imagine a 3d pallette where each axis
   represents a dimension of the type: X: Weight, Y: Width, Z: Slant
