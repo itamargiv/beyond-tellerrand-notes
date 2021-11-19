@@ -1,7 +1,7 @@
 # Get Your `<head> ` straight
 
-By: [Harry Roberts](https://beyondtellerrand.com/events/dusseldorf-2021/speakers/harry-roberts)
-
+> By: [Harry Roberts](https://beyondtellerrand.com/events/dusseldorf-2021/speakers/harry-roberts)
+>
 > **Video:** https://www.youtube.com/watch?v=MHyAOZ45vnU 
 
 - Anecdote: The Egyptians thought the heart was the most important organ in the

@@ -1,9 +1,11 @@
 # More to give than just the `<div>`
 Semantics and how to get them right 
 
-By: Hidde de Vries
-
-* [Slides](https://talks.hiddedevries.nl/Ahs3lw/more-to-give-than-just-the-div-semantics-and-how-to-get-them-right#sSk4Nh5)
+> By: [Hidde de Vries](https://beyondtellerrand.com/events/dusseldorf-2021/speakers/hidde-de-vries)
+>
+> **Video:** https://www.youtube.com/watch?v=YG9WQUfH7ZU
+>
+> [Slides](https://talks.hiddedevries.nl/Ahs3lw/more-to-give-than-just-the-div-semantics-and-how-to-get-them-right#sSk4Nh5)
 
 ## A bit about semantics
 
@@ -86,8 +88,9 @@ Some examples:
 
 ## Learn More
 
-developers.whatwg.org - A great manual for developers on HTML and accessibility
-HTMLHell.org - collects examples of what **not** to do with your html
+https://developers.whatwg.org - A great manual for developers on HTML and accessibility
+
+https://HTMHell.dev - collects examples of what **not** to do with your html
 
 ## Caveats
 

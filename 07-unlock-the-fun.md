@@ -1,6 +1,8 @@
 # Unlock The Fun!
 
-By: Ulrike Rausch
+> By: [Ulrike Rausch](https://beyondtellerrand.com/events/dusseldorf-2021/speakers/ulrike-rausch)
+>
+> **Video:** https://www.youtube.com/watch?v=IzqIDLgVZi8
 
 - Creating handwritten fonts requires quite a lot of technical work.
 - Actual handwritten sign looks much more charming than handwritten fonts.

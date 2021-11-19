@@ -1,7 +1,9 @@
-# Looking Like a Lost Sheep
-The story of a Lonely Chart
+# The story of a Lonely Chart
+Why we need more data art
 
-By: Matthias Stahl
+> By: [Matthias Stahl](https://beyondtellerrand.com/events/dusseldorf-2021/speakers/matthias-stahl)
+>
+> **Video:** https://www.youtube.com/watch?v=-72mbfLDr98
 
 ## What are Lonely Charts?
 

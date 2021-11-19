@@ -1,6 +1,8 @@
 # Pragmatic Sketching
 
-By: Eva-Lotta Lamm [@evalottchen]()
+> By: [Eva-Lotta Lamm](https://beyondtellerrand.com/events/dusseldorf-2021/speakers/eva-lotta-lamm)
+>
+> **Video:** https://www.youtube.com/watch?v=9QOMg7m8u9Q
 
 - Most people feel like they can't sketch, not creative enough
 - Sketching is really useful for conveying and storing information
@@ -74,4 +76,4 @@ By: Eva-Lotta Lamm [@evalottchen]()
 
 ## Learn more
 
-evalotte.net/btconf
+http://evalotta.net/btconf

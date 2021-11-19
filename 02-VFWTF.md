@@ -1,7 +1,7 @@
 # VFWTF? - Variable Fonts WTF?
 
-By: [Bianca Berning](https://beyondtellerrand.com/events/dusseldorf-2021/speakers/bianca-berning)
-
+> By: [Bianca Berning](https://beyondtellerrand.com/events/dusseldorf-2021/speakers/bianca-berning)
+>
 > **Video:** https://www.youtube.com/watch?v=yBSbHaOlYrk
 
 - Take a look at where we are in terms of Variable Fonts

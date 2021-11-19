@@ -1,6 +1,8 @@
 # Why do we Even Need OAuth Anyways?
 
-By: Aaron Parecki
+> By: [Aaron Parecki](https://beyondtellerrand.com/events/dusseldorf-2021/speakers/aaron-parecki)
+>
+> **Video**: https://www.youtube.com/watch?v=uN860I2kGo0
 
 - Security is becoming increasingly important, due to connected devices
   proliferation.
@@ -8,7 +10,7 @@ By: Aaron Parecki
   of dozens of several different specs themselves.
 - OAuth is more than just the sign in with Facebook / google etc. menu.
 
-## A bit ogf history
+## A bit of history
 
 - In the past, in order to sign in to a service using other credentials, you had
   to give that application your credentials.
