@@ -73,5 +73,5 @@
 ## Learn More
 
 * https://oauth.net/      - community space for learning OAuth
-* https://oath.wtf/       - A book by the presenter about OAuth
+* https://oauth.wtf/       - A book by the presenter about OAuth
 * https://indieauth.net/  - OAuth for the open web.
